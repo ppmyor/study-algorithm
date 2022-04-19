@@ -8,3 +8,4 @@
 #### 입출력
 
 -   [2557](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2557.js)(22.04.20)
+-   [1000](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1000.js)(22.04.20)
