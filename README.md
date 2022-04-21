@@ -19,3 +19,4 @@
 -   [11718](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11718.js)(22.04.20)
 -   [11719](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11719.js)(22.04.20)
 -   [11720](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11720.js)(22.04.21)
+-   [11721](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11721.js)(22.04.21)
