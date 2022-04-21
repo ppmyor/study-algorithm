@@ -1,7 +1,7 @@
 # study-algorithm
 
 -   ✏️ 알고리즘 문제 풀이 및 공부 내용을 기록합니다.
--   🗣 언어는 JavaScript로 진행합니다.
+-   🗣 언어는 JavaScript를 이용합니다.
 
 ## Baekjoon
 
@@ -20,3 +20,4 @@
 -   [11719](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11719.js)(22.04.20)
 -   [11720](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11720.js)(22.04.21)
 -   [11721](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11721.js)(22.04.21)
+-   [2741](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2741.js)(22.04.22)
