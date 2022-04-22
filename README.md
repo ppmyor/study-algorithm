@@ -21,3 +21,4 @@
 -   [11720](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11720.js)(22.04.21)
 -   [11721](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11721.js)(22.04.21)
 -   [2741](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2741.js)(22.04.22)
+-   [2742](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2742.js)(22.04.22)
