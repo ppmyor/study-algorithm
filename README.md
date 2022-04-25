@@ -30,3 +30,4 @@
 -   [2439](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2439.js)
 -   [2440](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2440.js)
 -   [2441](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2441.js)
+-   [2442](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2442.js)
