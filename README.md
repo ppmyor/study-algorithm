@@ -40,3 +40,4 @@
 #### 기초 수학
 
 -   [10430](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10430.js)
+-   [2609](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2609.js)
