@@ -36,3 +36,7 @@
 -   [2446](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2446.js)
 -   [10991](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10991.js)
 -   [10992](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10992.js)
+
+#### 기초 수학
+
+-   [10430](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10430.js)
