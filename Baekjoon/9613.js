@@ -2,16 +2,11 @@ const input = require("fs").readFileSync("/dev/stdin").toString().trim().split("
 const testCase = parseInt(input[0]);
 let answer = [];
 
-const gcd = (i, j) => {
-  if (j === 0) {
-    return i;
-  }
-  return gcd(j, i % j);
-};
+const gcd = (a, b) => (a % b ? gcd(b, a % b) : b);
 
 for (let i = 1; i <= testCase; i++) {
-  const numbers = input[i].split(" ");
-  const numTestCase = parseInt(numbers[0]);
+  const [, ...numbers] = input[i].split(" ").map(Number);
+  const numTestCase = numbers[0];
   let result = 0;
   for (let j = 1; j <= numTestCase; j++) {
     for (let k = j + 1; k <= numTestCase; k++) {
