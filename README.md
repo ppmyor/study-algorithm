@@ -53,3 +53,4 @@
 - [11005](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11005.js)
 - [2745](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2745.js)
 - [1373](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1373.js)
+- [1212](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1212.js)
