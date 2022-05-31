@@ -57,3 +57,4 @@
 - [2089 - -2진수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2089.js)
 - [11576 - Base Conversion](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11576.js)
 - [1978 - 소수 찾기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1978.js)
+- [1929 - 소수 구하기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1929.js)
