@@ -45,6 +45,7 @@
 - [2743 - 단어 길이 재기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2743.js)
 - [11655 - ROT13](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11655.js)
 - [10824 - 네 수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10824.js)
+- [11656 - 접미사 배열](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11656.js)
 
 #### 기초 수학
 
