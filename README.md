@@ -44,6 +44,7 @@
 - [10820 - 문자열 분석](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10820.js)
 - [2743 - 단어 길이 재기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2743.js)
 - [11655 - ROT13](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11655.js)
+- [10824 - 네 수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10824.js)
 
 #### 기초 수학
 
