@@ -65,3 +65,4 @@
 - [11653 - 소인수분해](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11653.js)
 - [10872 - 팩토리얼](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10872.js)
 - [1676 - 팩토리얼 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1676.js)
+- [2004 - 조합 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2004.js)
