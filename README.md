@@ -66,4 +66,4 @@
 - [10872 - 팩토리얼](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10872.js)
 - [1676 - 팩토리얼 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1676.js)
 - [2004 - 조합 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2004.js)
-- [6588 - 골드바흐의 추측(메모리 초과)](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/6588.js)
+- [6588 - 골드바흐의 추측](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/6588.js)

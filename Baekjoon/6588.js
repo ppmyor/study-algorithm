@@ -1,9 +1,10 @@
 const input = require("fs")
-  .readFileSync("/dev/stdin")
+  .readFileSync("example.txt")
   .toString()
   .trim()
   .split("\n")
   .map((v) => Number(v));
+input.pop();
 
 const maxNum = Math.max(...input);
 let isPrime = new Array(maxNum + 1).fill(true);
@@ -20,21 +21,29 @@ for (let i = 2; i <= Math.ceil(Math.sqrt(maxNum)); i++) {
   }
 }
 
-for (let m = maxNum; m >= 2; m--) {
-  if (isPrime[m] && m % 2 !== 0) {
-    arr.push(m);
+isPrime.forEach((v, i) => {
+  if (v) {
+    arr.push(i);
   }
-}
+});
 
-for (let i = 0; i < input.length - 1; i++) {
-  for (let j in arr) {
-    if (arr[j] <= input[i]) {
-      const found = arr.find((v) => v === input[i] - arr[j]);
-      if (found !== undefined) {
-        answer += `${input[i]} = ${found} + ${arr[j]}\n`;
+input.forEach((v) => {
+  for (let i = 0; i < arr.length; i++) {
+    let possible = false;
+    for (let j = 0; j < arr.length; j++) {
+      let sum = arr[i] + arr[j];
+      if (sum > v) {
         break;
       }
+      if (sum === v) {
+        answer += `${v} = ${arr[i]} + ${arr[j]}\n`;
+        possible = true;
+      }
+    }
+    if (possible) {
+      break;
     }
   }
-}
+});
+
 console.log(answer.trim());
