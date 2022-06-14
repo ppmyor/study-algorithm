@@ -37,6 +37,10 @@
 - [10991 - 별 찍기 - 16](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10991.js)
 - [10992 - 별 찍기 - 17](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10992.js)
 
+#### 정렬
+
+- [2751 - 수 정렬하기 2](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2751.js)
+
 #### 문자열 처리
 
 - [10808 - 알파벳 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10808.js)
