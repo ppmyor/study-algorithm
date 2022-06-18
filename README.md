@@ -36,6 +36,7 @@
 - [2446 - 별 찍기 - 9](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2446.js)
 - [10991 - 별 찍기 - 16](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10991.js)
 - [10992 - 별 찍기 - 17](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10992.js)
+- [10171 - 고양이](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10171.js)
 
 #### 정렬
 
