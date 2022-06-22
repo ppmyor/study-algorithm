@@ -43,6 +43,7 @@
 - [2751 - 수 정렬하기 2](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2751.js)
 - [11650 - 좌표 정렬하기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11650.js)
 - [11651 - 좌표 정렬하기 2](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11651.js)
+- [10814 - 나이순 정렬](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10814.js)
 
 #### 문자열 처리
 
