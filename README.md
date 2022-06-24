@@ -76,3 +76,9 @@
 - [1676 - 팩토리얼 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1676.js)
 - [2004 - 조합 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2004.js)
 - [6588 - 골드바흐의 추측](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/6588.js)
+
+## [프로그래머스](https://programmers.co.kr/learn/challenges)
+
+#### Level 1
+
+- [직사각형 별찍기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/직사각형_별찍기.js)
