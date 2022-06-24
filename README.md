@@ -82,3 +82,4 @@
 #### Level 1
 
 - [직사각형 별찍기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/직사각형_별찍기.js)
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/x만큼_간격이_있는_n개의_숫자.js)
