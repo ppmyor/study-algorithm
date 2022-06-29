@@ -45,6 +45,7 @@
 - [11651 - 좌표 정렬하기 2](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11651.js)
 - [10814 - 나이순 정렬](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10814.js)
 - [10825 - 국영수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10825.js)
+- [11652 - 카드](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/11652.js)
 
 #### 문자열 처리
 
