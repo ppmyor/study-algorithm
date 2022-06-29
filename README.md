@@ -87,3 +87,4 @@
 - [행렬의 덧셈](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/행렬의_덧셈.js)
 - [핸드폰 번호 가리기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/핸드폰_번호_가리기.js)
 - [하샤드 수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/하샤드_수.js)
+- [평균 구하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/평균_구하기.js)
