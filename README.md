@@ -90,3 +90,4 @@
 - [평균 구하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/평균_구하기.js)
 - [콜라츠 추측](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/콜라츠_추측.js)
 - [최대공약수와 최소공배수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최대공약수와_최소공배수.js)
+- [짝수와 홀수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/짝수와_홀수.js)
