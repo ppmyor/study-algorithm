@@ -92,3 +92,4 @@
 -   [최대공약수와 최소공배수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최대공약수와_최소공배수.js)
 -   [짝수와 홀수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/짝수와_홀수.js)
 -   [제일 작은 수 제거하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/제일_작은_수_제거하기.js)
+-   [정수 제곱근 판별](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/정수_제곱근_판별.js)
