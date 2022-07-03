@@ -95,3 +95,4 @@
 -   [제일 작은 수 제거하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/제일_작은_수_제거하기.js)
 -   [정수 제곱근 판별](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/정수_제곱근_판별.js)
 -   [정수 내림차순으로 배치하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/정수_내림차순으로_배치하기.js)
+-   [자연수 뒤집어 배열로 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/자연수_뒤집어_배열로_만들기.js)
