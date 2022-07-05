@@ -79,6 +79,10 @@
 -   [2004 - 조합 0의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2004.js)
 -   [6588 - 골드바흐의 추측](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/6588.js)
 
+#### 이분탐색/삼분탐색
+
+-   [1654 - 랜선 자르기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1654.js)
+
 ## [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 #### Level 1
