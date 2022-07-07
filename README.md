@@ -104,3 +104,4 @@
 - [이상한 문자 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/이상한_문자_만들기.js)
 - [약수의 합](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/약수의_합.js)
 - [시저 암호](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/시저_암호.js)
+- [문자열을 정수로 바꾸기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열을_정수로_바꾸기.js)
