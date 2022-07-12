@@ -108,3 +108,4 @@
 - [수박수박수박수박수박수?](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/수박수박수박수박수박수.js)
 - [서울에서 김서방 찾기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/서울에서_김서방_찾기.js)
 - [소수 찾기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/소수_찾기.js)
+- [문자열 다루기 기본](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열_다루기_기본.js)
