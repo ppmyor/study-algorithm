@@ -82,6 +82,7 @@
 #### 이분탐색/삼분탐색
 
 - [1654 - 랜선 자르기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1654.js)
+- [2805 - 나무 자르기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2805.js)
 
 ## [프로그래머스](https://programmers.co.kr/learn/challenges)
 
