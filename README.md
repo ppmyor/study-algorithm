@@ -110,3 +110,4 @@
 - [소수 찾기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/소수_찾기.js)
 - [문자열 다루기 기본](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열_다루기_기본.js)
 - [문자열 내림차순으로 배치하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열_내림차순으로_배치하기.js)
+- [문자열 내 p와 y의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열_내_p와_y의_개수.js)
