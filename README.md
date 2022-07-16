@@ -114,3 +114,4 @@
 - [문자열 내 p와 y의 개수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열_내_p와_y의_개수.js)
 - [문자열 내 마음대로 정렬하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/문자열_내_마음대로_정렬하기.js)
 - [두 정수 사이의 합](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/두_정수_사이의_합.js)
+- [같은 숫자는 싫어](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/같은_숫자는_싫어.js)
