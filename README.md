@@ -118,3 +118,4 @@
 - [나누어 떨어지는 숫자 배열](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/나누어_떨어지는_숫자_배열.js)
 - [가운데 글자 가져오기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/가운데_글자_가져오기.js)
 - [2016년](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/2016년.js)
+- [[1차] 다트게임](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/1차_다트게임.js)
