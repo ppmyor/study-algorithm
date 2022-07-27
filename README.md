@@ -120,3 +120,4 @@
 - [2016년](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/2016년.js)
 - [[1차] 다트게임](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/1차_다트게임.js)
 - [[1차] 비밀지도](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/1차_비밀지도.js)
+- [두 개 뽑아서 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/두_개_뽑아서_더하기.js)
