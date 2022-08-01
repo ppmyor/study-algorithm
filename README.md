@@ -84,6 +84,7 @@
 - [1654 - 랜선 자르기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/1654.js)
 - [2805 - 나무 자르기](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2805.js)
 - [2110 - 공유기 설치](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/2110.js)
+- [10815 - 숫자 카드](https://github.com/ppmyor/study-algorithm/blob/main/Baekjoon/10815.js)
 
 ## [프로그래머스](https://programmers.co.kr/learn/challenges)
 
