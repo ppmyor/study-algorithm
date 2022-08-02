@@ -125,3 +125,4 @@
 - [두 개 뽑아서 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/두_개_뽑아서_더하기.js)
 - [모의고사](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/모의고사.js)
 - [K번째수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/K번째수.js)
+- [부족한 금액 계산하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/부족한_금액_계산하기.js)
