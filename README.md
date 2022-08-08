@@ -130,3 +130,4 @@
 - [예산](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/예산.js)
 - [음양 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/음양_더하기.js)
 - [3진법 뒤집기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/3진법_뒤집기.js)
+- [약수의 개수와 덧셈](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/약수의_개수와_덧셈.js)
