@@ -129,3 +129,4 @@
 - [나머지가 1이 되는 수 찾기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/나머지가_1이_되는_수_찾기.js)
 - [예산](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/예산.js)
 - [음양 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/음양_더하기.js)
+- [3진법 뒤집기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/3진법_뒤집기.js)
