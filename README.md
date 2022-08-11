@@ -132,3 +132,4 @@
 - [3진법 뒤집기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/3진법_뒤집기.js)
 - [약수의 개수와 덧셈](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/약수의_개수와_덧셈.js)
 - [실패율](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/실패율.js)
+- [완주하지 못한 선수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/완주하지_못한_선수.js)
