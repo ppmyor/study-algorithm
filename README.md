@@ -133,3 +133,4 @@
 - [약수의 개수와 덧셈](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/약수의_개수와_덧셈.js)
 - [실패율](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/실패율.js)
 - [완주하지 못한 선수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/완주하지_못한_선수.js)
+- [체육복](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/체육복.js)
