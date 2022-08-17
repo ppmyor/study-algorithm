@@ -136,3 +136,4 @@
 - [체육복](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/체육복.js)
 - [폰켓몬](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/폰켓몬.js)
 - [소수 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/소수_만들기.js)
+- [내적](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/내적.js)
