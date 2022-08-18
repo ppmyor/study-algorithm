@@ -137,3 +137,4 @@
 - [폰켓몬](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/폰켓몬.js)
 - [소수 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/소수_만들기.js)
 - [내적](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/내적.js)
+- [없는 숫자 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/없는_숫자_더하기.js)
