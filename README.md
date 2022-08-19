@@ -138,3 +138,4 @@
 - [소수 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/소수_만들기.js)
 - [내적](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/내적.js)
 - [없는 숫자 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/없는_숫자_더하기.js)
+- [크레인 인형뽑기 게임](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/크레인_인형뽑기_게임.js)
