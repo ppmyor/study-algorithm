@@ -140,3 +140,4 @@
 - [없는 숫자 더하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/없는_숫자_더하기.js)
 - [크레인 인형뽑기 게임](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/크레인_인형뽑기_게임.js)
 - [키패드 누르기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/키패드_누르기.js)
+- [숫자 문자열과 영단어](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/숫자_문자열과_영단어.js)
