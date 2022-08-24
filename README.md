@@ -142,3 +142,4 @@
 - [키패드 누르기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/키패드_누르기.js)
 - [숫자 문자열과 영단어](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/숫자_문자열과_영단어.js)
 - [신규 아이디 추천](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/신규_아이디_추천.js)
+- [로또의 최고 순위와 최저 순위](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/로또의_최고_순위와_최저_순위.js)
