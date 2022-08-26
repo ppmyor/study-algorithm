@@ -145,3 +145,4 @@
 - [로또의 최고 순위와 최저 순위](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/로또의_최고_순위와_최저_순위.js)
 - [최소직사각형](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최소직사각형.js)
 - [신고 결과 받기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/신고_결과_받기.js)
+- [성격 유형 검사하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/성격_유형_검사하기.js)
