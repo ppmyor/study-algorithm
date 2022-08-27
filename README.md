@@ -146,3 +146,7 @@
 - [최소직사각형](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최소직사각형.js)
 - [신고 결과 받기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/신고_결과_받기.js)
 - [성격 유형 검사하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/성격_유형_검사하기.js)
+
+#### Level 2
+
+- [N개의 최소공배수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/N개의_최소공배수.js)
