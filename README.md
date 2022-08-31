@@ -152,3 +152,4 @@
 - [N개의 최소공배수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/N개의_최소공배수.js)
 - [행렬의 곱셈](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/행렬의_곱셈.js)
 - [JadenCase 문자열 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/JadenCase_문자열_만들기.js)
+- [최댓값과 최솟값](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최댓값과_최솟값.js)
