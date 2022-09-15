@@ -155,3 +155,4 @@
 - [최댓값과 최솟값](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최댓값과_최솟값.js)
 - [피보나치 수](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/피보나치_수.js)
 - [이진 변환 반복하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/이진_변환_반복하기.js)
+- [최솟값 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최솟값_만들기.js)
