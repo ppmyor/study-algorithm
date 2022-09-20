@@ -157,3 +157,4 @@
 - [이진 변환 반복하기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/이진_변환_반복하기.js)
 - [최솟값 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최솟값_만들기.js)
 - [숫자의 표현](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/숫자의_표현.js)
+- [다음 큰 숫자](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/다음_큰_숫자.js)
