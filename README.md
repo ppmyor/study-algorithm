@@ -158,3 +158,4 @@
 - [최솟값 만들기](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/최솟값_만들기.js)
 - [숫자의 표현](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/숫자의_표현.js)
 - [다음 큰 숫자](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/다음_큰_숫자.js)
+- [카펫](https://github.com/ppmyor/study-algorithm/blob/main/Programmers/카펫.js)
